@@ -1,6 +1,6 @@
 # 📖 What I'm Learning
 ## 🔐 Cybersecurity
-- [ ] CompTIA Sec+
+- [x] CompTIA Security+
 
 ## 🖱 Web Development
 - [ ] Odin Project
